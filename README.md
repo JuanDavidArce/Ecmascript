@@ -1,3 +1,4 @@
-# Ecmascript
+#Ecmascript
 
-Codigos con las novedades desde ecmascript 6
+Codes with the news from ecmascript 6 to ecmascript of 2021
+
